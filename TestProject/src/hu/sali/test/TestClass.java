@@ -15,6 +15,7 @@ public class TestClass
 	
 	/**
 	 * This is the funcA.
+	 * Writes different helloworld message.
 	 */
 	public static void funcA()
 	{
