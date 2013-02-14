@@ -13,6 +13,9 @@ public class TestClass
 		System.out.println("Hello World!");
 	}
 	
+	/**
+	 * Prints out some other message.
+	 */
 	public static void printOtherMessage()
 	{
 		System.out.println("Some other message");
