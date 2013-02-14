@@ -13,6 +13,9 @@ public class TestClass
 		System.out.println("Hello World!");
 	}
 	
+	/**
+	 * This is the funcA.
+	 */
 	public static void funcA()
 	{
 		System.out.println("Hello World, from func A!");
