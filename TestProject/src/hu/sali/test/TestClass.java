@@ -12,5 +12,10 @@ public class TestClass
 		// Prints out a message.
 		System.out.println("Hello World!");
 	}
+	
+	public static void printOtherMessage()
+	{
+		System.out.println("Some other message");
+	}
 
 }
