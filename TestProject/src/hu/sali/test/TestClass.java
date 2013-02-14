@@ -12,5 +12,10 @@ public class TestClass
 		// Prints out a message.
 		System.out.println("Hello World!");
 	}
+	
+	public static void funcA()
+	{
+		System.out.println("Hello World, from func A!");
+	}
 
 }
